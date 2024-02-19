@@ -1,0 +1,17 @@
+.works{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 25px;
+}
+.WorksTitle{
+    color: orange;
+    font-size: 25px;
+    font-weight: 500;
+}
+.worksItems{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}

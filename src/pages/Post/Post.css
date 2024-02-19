@@ -1,0 +1,27 @@
+.post{
+    height: 100vh;
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.postTitle{
+    color: orange;
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    max-width: 700px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.postDescription{
+    max-width: 900px;
+    text-align: center;
+    text-transform: capitalize;
+}
+.postButton{
+    padding: 20px 40px;
+    border: none;
+    border-radius: 15px;
+}
